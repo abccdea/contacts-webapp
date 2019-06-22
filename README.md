@@ -12,7 +12,7 @@ This is a frontend for the Contacts webapp.
 
 - `cd webapp`
 - Install the dependencies - `npm install`
-- Start the client - `npn run start`
+- Start the client - `npm run start`
 - Visit URL: http://localhost:3000
 
 ---
